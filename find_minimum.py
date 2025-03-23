@@ -1,6 +1,6 @@
 # Isaiah Lugo
 # CSM IV - Algorithms
-# Assignment 2 - Algoritm Efficiency
+# Assignment 2 - Algorithm Efficiency
 
 
 def find_minimum_n2(arr):
